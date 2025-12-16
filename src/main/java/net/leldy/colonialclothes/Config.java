@@ -1,4 +1,4 @@
-package net.leldy.createclothes;
+package net.leldy.colonialclothes;
 
 import java.util.List;
 
